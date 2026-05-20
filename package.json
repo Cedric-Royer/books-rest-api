@@ -1,0 +1,21 @@
+{
+  "name": "books-rest-api",
+  "version": "1.0.0",
+  "description": "A simple and robust REST API built with Node.js and Express to manage a book collection.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "rest-api",
+    "crud"
+  ],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}

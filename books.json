@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "Mort sur le Nil",
+    "author": "Agatha Christie",
+    "description": "Lors d'une croisière sur le Nil, la riche héritière Linnet Ridgeway est assassinée. Hercule Poirot, présent par hasard, doit démêler un enchevêtrement de jalousies, dettes et secrets parmi les passagers."
+  },
+  {
+    "id": 2,
+    "title": "Macbeth",
+    "author": "William Shakespeare",
+    "description": "Macbeth, général écossais, rencontre trois sorcières qui lui prédisent qu'il deviendra roi. Poussé par l'ambition et sa femme, il assassine le roi Duncan, plongeant l'Écosse dans la tyrannie et la folie."
+  },
+  {
+    "id": 3,
+    "title": "Vingt mille lieues sous les mers",
+    "author": "Jules Verne",
+    "description": "Le professeur Aronnax, son domestique Conseil et le harponneur Ned Land sont prisonniers du mystérieux capitaine Nemo à bord du sous-marin Nautilus. Ils parcourent les océans, découvrant des mondes insoupçonnés."
+  },
+  {
+    "id": 4,
+    "title": "De sang-froid",
+    "author": "Truman Capote",
+    "description": "Récit minutieux du meurtre de la famille Clutter au Kansas en 1959. Truman Capote mêle enquête journalistique et fiction pour explorer la psychologie des assassins et l'impact sur une petite ville américaine."
+  }
+]
