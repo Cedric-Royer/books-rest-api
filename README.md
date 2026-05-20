@@ -13,7 +13,13 @@ API REST construite avec Node.js et Express permettant de gérer une collection 
 | PATCH   | `/books/:id` | Modifie partiellement un livre | 200 OK          |
 | DELETE  | `/books/:id` | Supprime un livre              | 204 No Content  |
 
+## Installer les dépendances
+
 ## Lancer le serveur
+
+```bash
+npm install
+```
 
 ```bash
 npm run start
